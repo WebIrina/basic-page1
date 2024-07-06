@@ -1,3 +1,27 @@
 body{
     background-color: rgb(118, 139, 171);
 }
+header{
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+nav{
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+main{
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+footer{
+    background-color: gainsboro;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
